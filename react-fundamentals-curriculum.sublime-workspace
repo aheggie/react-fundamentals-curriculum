@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"increment"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"peelps",
+				"peeelps"
+			],
+			[
+				"p",
+				"peepsls"
+			],
+			[
+				"tr",
+				"transp_sums"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"name",
+				"name_obj"
+			],
+			[
+				"first",
+				"firstlast"
+			],
+			[
+				"in",
+				"inventor"
+			],
+			[
+				"changeO",
+				"changeOverlay"
+			],
+			[
+				"change",
+				"changeBlur"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"second",
+				"second-hand"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"play",
+				"clickPlaySound"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"pr",
+				"propertyName"
+			],
+			[
+				"re",
+				"removeTransition"
+			],
+			[
+				"keys",
+				"keys2"
+			],
+			[
+				"q",
+				"querySelectorAll"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"Ac",
+				"ACCESSORY_PRICE"
+			],
+			[
+				"get",
+				"getIt"
+			],
+			[
+				"callbac",
+				"callbackPrint"
+			],
+			[
+				"call",
+				"callbackPrint"
+			],
+			[
+				"filter",
+				"filterExt"
+			],
+			[
+				"filt",
+				"filt_module"
+			],
+			[
+				"dir",
+				"dir_chosen"
+			],
+			[
+				"ro",
+				"rounded"
+			],
+			[
+				"rou",
+				"roundUp"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alex Heggie/Documents/Code/tylermcginnis/react-fundamentals-curriculum",
+		"/C/Users/Alex Heggie/Documents/Code/tylermcginnis/react-fundamentals-curriculum/app",
+		"/C/Users/Alex Heggie/Documents/Code/tylermcginnis/react-fundamentals-curriculum/app/images",
+		"/C/Users/Alex Heggie/Documents/Code/tylermcginnis/react-fundamentals-curriculum/app/images/weather-icons"
+	],
+	"file_history":
+	[
+		"/C/Users/Alex Heggie/Documents/Code/tylermcginnis/react-fundamentals-curriculum/app/images/weather-icons/01d.svg",
+		"/C/Users/Alex Heggie/Documents/Code/tylermcginnis/npm_test/package.json",
+		"/C/Users/Alex Heggie/AppData/Local/Temp/Temp1_CSS-Selectors-Files.zip/CSS-Selectors-Files/start/styles.css",
+		"/C/Users/Alex Heggie/Documents/Code/Traversy/HTML5/index.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/LearnNode/.gitignore",
+		"/C/Users/Alex Heggie/Documents/Code/YDKJS/2_5_1",
+		"/C/Users/Alex Heggie/Documents/Code/YDKJS/2_3_2.js",
+		"/C/Users/Alex Heggie/Documents/Code/YDKJS/2_3_@.js",
+		"/C/Users/Alex Heggie/Documents/Code/JS/modulus_splitter_array_hardcoded.js",
+		"/C/Users/Alex Heggie/Documents/Code/githowto/git_tutorial/work/hello/hello.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/Flexbox/Projects/01-intro/index.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/Flexbox/What-The-Flexbox-master/01-intro/style.css",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/Flexbox/Projects/01-intro/style.css",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/Projects/05 - Flex Panels/index.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/Projects/01 - Drum Kit/style.css",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/Projects/05 - Flex Panels/style.css",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/from_github/JavaScript30/05 - Flex Panel Gallery/index-START.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/from_github/JavaScript30/03 - CSS Variables/index-START.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/Projects/03 - CSS variables/index.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/from_github/JavaScript30/04 - Array Cardio Day 1/index-START.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/Projects/03 - CSS variables/style.css",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/Projects/01 - Drum Kit/index.html",
+		"/C/Users/Alex Heggie/Documents/Code/YDKJS/2_2_1.js",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/Projects/02 - Clock/style.css",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/Projects/02 - Clock/index.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/from_github/JavaScript30/02 - JS and CSS Clock/index-FINISHED.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/from_github/JavaScript30/02 - JS and CSS Clock/index-START.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/from_github/JavaScript30/01 - JavaScript Drum Kit/index-START.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/from_github/JavaScript30/01 - JavaScript Drum Kit/index-FINISHED.html",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/Projects/01 - Drum Kit/styles.css",
+		"/C/Users/Alex Heggie/Documents/Code/WesBos/JS30/from_github/JavaScript30/01 - JavaScript Drum Kit/style.css",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/juggling.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/httpcollect.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/obj.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/arra-loop.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/first_async_io.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/arra.js",
+		"/C/Users/Alex Heggie/Documents/Code/YDKJS/1_1_1.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/for.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/if.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/responseobj.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/httpscollect.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/filt.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/filt_module.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/filt_earlier.js",
+		"/C/Users/Alex Heggie/Documents/Code/JS/array_mutate_test.js",
+		"/C/Users/Alex Heggie/Documents/Code/JS/modulus_splitter.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/variables.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/baby.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/learnyounode/intro.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/number-to-string.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/round.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/num.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/rev-strinfs.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/string-length.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/strings.js",
+		"/C/Users/Alex Heggie/Documents/Code/NodeSchool/javascripting/intro.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-fundamentals-curriculum.sublime-project",
+	"replace":
+	{
+		"height": 63.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
